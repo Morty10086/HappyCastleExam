@@ -1,0 +1,14 @@
+C:\Users\Morty\Desktop\HappyCastle\Exam4\bin\Debug\net6.0\Exam4.exe
+C:\Users\Morty\Desktop\HappyCastle\Exam4\bin\Debug\net6.0\Exam4.deps.json
+C:\Users\Morty\Desktop\HappyCastle\Exam4\bin\Debug\net6.0\Exam4.runtimeconfig.json
+C:\Users\Morty\Desktop\HappyCastle\Exam4\bin\Debug\net6.0\Exam4.dll
+C:\Users\Morty\Desktop\HappyCastle\Exam4\bin\Debug\net6.0\Exam4.pdb
+C:\Users\Morty\Desktop\HappyCastle\Exam4\obj\Debug\net6.0\Exam4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morty\Desktop\HappyCastle\Exam4\obj\Debug\net6.0\Exam4.AssemblyInfoInputs.cache
+C:\Users\Morty\Desktop\HappyCastle\Exam4\obj\Debug\net6.0\Exam4.AssemblyInfo.cs
+C:\Users\Morty\Desktop\HappyCastle\Exam4\obj\Debug\net6.0\Exam4.csproj.CoreCompileInputs.cache
+C:\Users\Morty\Desktop\HappyCastle\Exam4\obj\Debug\net6.0\Exam4.dll
+C:\Users\Morty\Desktop\HappyCastle\Exam4\obj\Debug\net6.0\refint\Exam4.dll
+C:\Users\Morty\Desktop\HappyCastle\Exam4\obj\Debug\net6.0\Exam4.pdb
+C:\Users\Morty\Desktop\HappyCastle\Exam4\obj\Debug\net6.0\Exam4.genruntimeconfig.cache
+C:\Users\Morty\Desktop\HappyCastle\Exam4\obj\Debug\net6.0\ref\Exam4.dll

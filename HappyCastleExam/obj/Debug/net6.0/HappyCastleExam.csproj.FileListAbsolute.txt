@@ -1,0 +1,14 @@
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\bin\Debug\net6.0\HappyCastleExam.exe
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\bin\Debug\net6.0\HappyCastleExam.deps.json
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\bin\Debug\net6.0\HappyCastleExam.runtimeconfig.json
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\bin\Debug\net6.0\HappyCastleExam.dll
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\bin\Debug\net6.0\HappyCastleExam.pdb
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\obj\Debug\net6.0\HappyCastleExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\obj\Debug\net6.0\HappyCastleExam.AssemblyInfoInputs.cache
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\obj\Debug\net6.0\HappyCastleExam.AssemblyInfo.cs
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\obj\Debug\net6.0\HappyCastleExam.csproj.CoreCompileInputs.cache
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\obj\Debug\net6.0\HappyCastleExam.dll
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\obj\Debug\net6.0\refint\HappyCastleExam.dll
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\obj\Debug\net6.0\HappyCastleExam.pdb
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\obj\Debug\net6.0\HappyCastleExam.genruntimeconfig.cache
+C:\Users\Morty\Desktop\HappyCastle\HappyCastleExam\obj\Debug\net6.0\ref\HappyCastleExam.dll
